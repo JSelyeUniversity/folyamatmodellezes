@@ -1,2 +1,1 @@
-# TNMS
-Folyamatmodellezés és számítógépes szimuláció a MATLAB-ban  
+# Folyamatmodellezés és számítógépes szimuláció a MATLAB-ban  
