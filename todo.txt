@@ -1,0 +1,8 @@
+2.1.2 Lorenz 
+P_2_1_l_Kosarlabda_elkapasa_plot.m
+6. forráskód
+3.1.a,b,c - hiányzik
+3.1.2 kölcsöntörlesztés
+
+Error in f13_zsakmany_ragadozo (line 34)
+  label('time','FontSize',16)
