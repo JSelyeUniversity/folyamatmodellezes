@@ -14,9 +14,9 @@ F - forráskód
 
 *opcionális# 
 
-Table of Contents for Jegyzet_melleklet
+# Tartalomjegyzék
 
-- **Jegyzet_melleklet**
+- **Jegyzet_melléklet**
     - **2. Folytonos rendszerek (DESS)**
         - **2.1.1. Populációs modellek**
             - P_2_1_a_Exponencialis_novekedes.slx
@@ -35,16 +35,16 @@ Table of Contents for Jegyzet_melleklet
             - P_2_1_k_Csillapitott_inga.slx
             - P_2_1_l_Kosarlabda_elkapasa.slx
         - **2.2.2. Parciális differenciálegyenletek numerikus megoldása**
-            - F2_2_2_6_forward.m
-            - F2_2_2_7_crnich.m
-            - F2_2_2_8_rcd.m
-            - F2_2_2_9_rcd_neumann.m
+            - F_2_2_2_6_forward.m
+            - F_2_2_2_7_crnich.m
+            - F_2_2_2_8_rcd.m
+            - F_2_2_2_9_rcd_neumann.m
         - **2.2.3. Részleges differenciálegyenletek pdepe segítségével**
             - F_2_2_3_10_diffuzios_kompeticio_rendszer.m
             - F_2_2_3_11_kemosztat.m
         - **2.2.4. Késleltetési differenciálegyenlet numerikus megoldása - Lineáris spline közelítés**
-            - P2_2_d_konstans_kesleltetesu.m
-            - P2_2_e_zsakmany_ragadozo.m
+            - P_2_2_d_konstans_kesleltetesu.m
+            - P_2_2_e_zsakmany_ragadozo.m
     - **3. Diszkrét rendszerek (DTSS)**
         - **3.1.1. Matematikai számsorozatok**
         - **3.1.2. Kölcsöntörlesztés**
@@ -66,12 +66,12 @@ Table of Contents for Jegyzet_melleklet
             - P_3_2_e2_SIR_CA.m
     - **4. Diszkrét eseményű rendszerek (DEVS)**
         - **4.2. Markov-láncok**
-            - F4_2_23_Egyenletes_eloszlas.m
-            - F4_2_24_Binomialis_eloszlas.m
-            - F4_2_25_Geometriai_eloszlas.m
-            - F4_2_26_Poisson_eloszlas.m
-            - F4_2_27_Exponencialis_eloszlas.m
-            - F4_2_28_Normalis_eloszlas.m
+            - F_4_2_23_Egyenletes_eloszlas.m
+            - F_4_2_24_Binomialis_eloszlas.m
+            - F_4_2_25_Geometriai_eloszlas.m
+            - F_4_2_26_Poisson_eloszlas.m
+            - F_4_2_27_Exponencialis_eloszlas.m
+            - F_4_2_28_Normalis_eloszlas.m
             - P_4_2_a_Szines_labdak.m
             - P_4_2_b_Minosegellenorzes.m
             - P_4_2_c_Kockadobasok.m
