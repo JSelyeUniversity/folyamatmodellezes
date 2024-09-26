@@ -6,3 +6,5 @@ P_2_1_l_Kosarlabda_elkapasa_plot.m
 
 Error in f13_zsakmany_ragadozo (line 34)
   label('time','FontSize',16)
+
+4.2.b - hiányos
