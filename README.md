@@ -1,6 +1,6 @@
 # Folyamatmodellezés és számítógépes szimuláció a MATLAB-ban
 
-## **Szerzők**: Kmeť Tibor, Annuš Norbert, Csóka Márk, Paksi Dávid
+## Szerzők: Kmeť Tibor, Annuš Norbert, Csóka Márk, Paksi Dávid
 
 
 Fájlnevek magyarázata:  
@@ -12,7 +12,7 @@ Fájlnevek magyarázata:
 |-------------|---------|-----------|--------------------------|-------------------------|-----------------------------|------------------|
 | típus (P/F) | fejezet | alfejezet | példa/forráskód jelölése | példa/forráskód sorszáma| példa/forráskód megnevezése | fájlkiterjesztés |
 
-*opcionális# 
+*opcionális 
 
 # Tartalomjegyzék
 
